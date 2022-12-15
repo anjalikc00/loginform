@@ -1,0 +1,26 @@
+.acer{
+    color:royalblue
+}
+#two{
+    background-color: beige;
+    width:fit-content;
+    height:fit-content;
+
+    
+}
+.d1{
+    background-color:moccasin ;
+    width:fit-content;
+    height:fit-content;
+    padding-top:10px;
+    margin:15px;
+    margin-top:15px ;
+    box-shadow:10px 10px 1px royalblue ;
+    
+}
+.d2{
+    text-shadow: 10px 5px 5px red ;
+    font-size:40px ;
+    font-weight:700;
+    font-style:italic;
+}

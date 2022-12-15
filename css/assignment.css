@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background:url("folder/a.jpg")
+
+}
+div.main{
+    width:400px;
+    margin:100px auto 0px auto;
+}
+h2{
+    text-align:center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+div.register{
+    background-color:rgba(0,0,0,0.5)
+    width:100%;
+    font-size: 18px;
+    border-radius: 10px;
+    borber:1px solid rbga(255,255,255,255);
+    
+}

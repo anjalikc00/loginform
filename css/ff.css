@@ -1,0 +1,16 @@
+.Z{
+    height:500px;
+    width:500px;
+    border-radius:100% ;
+ 
+}
+.k{
+    background-image: url("../folder/a.jpg");
+    height:1000px;
+    width:100%;
+    background-repeat: no-repeat;
+    color:burlywood;
+    background-size:100% 50%;
+    background-position:bottom;
+    font-size: 20px;
+}
